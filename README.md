@@ -47,6 +47,10 @@ I will always try to create something new and interesting. look forward to this 
 -->
 
 
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccioRyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
