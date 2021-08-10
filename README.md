@@ -15,12 +15,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
 
-
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+🍒
 
 <!--
 **RiccioRyu/RiccioRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
