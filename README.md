@@ -1,7 +1,7 @@
 ###  Hello World! 
 ---
 
-😄 Hi, Everyone! I'm a developer studying. I always want to show everyone a better side. <br />
+😄 Hi, Everyone! I'm a studying developer. I always want to show everyone a better side. <br />
 I develop regardless of web, mobile, TV, etc. Front-end, Back-end, Full-stack are all very interested. Good luck.
 
 I like fitness, games and coffee.<br />
