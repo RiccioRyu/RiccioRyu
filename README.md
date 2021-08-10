@@ -1,7 +1,7 @@
 ###  Hello World! 
 ---
 
-😄 Hi, Everyone! I'm a developer studying. I always want to show everyone a better side. 
+😄 Hi, Everyone! I'm a developer studying. I always want to show everyone a better side. <br />
 I develop regardless of web, mobile, TV, etc. Front-end, Back-end, Full-stack are all very interested. Good luck.
 
 I like fitness, games and coffee.<br />
@@ -27,7 +27,7 @@ I will always try to create something new and interesting. look forward to this 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /></p>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /></p><br />
 
 
 #### <p align="center"> 📔 Tools 📔 </p>
@@ -37,7 +37,7 @@ I will always try to create something new and interesting. look forward to this 
   <img src="https://img.shields.io/badge/Zepline-orange?style=flat-square&logo=Azure%20Pipelines&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white" />
-</p>
+</p><br />
 
 <!--
 #### <p align="center"> 📕 Me 📕 </p>
