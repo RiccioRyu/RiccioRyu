@@ -10,7 +10,7 @@ I will always try to create something new and interesting. look forward to this 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRiccioRyu%2Fhit-counter&count_bg=%23CA2DE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 📕📗📘📙📓📔📒
-<p style="text-align:center;">
+<p style="text-align: center;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />&nbsp;
