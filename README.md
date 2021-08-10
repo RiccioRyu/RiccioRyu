@@ -9,7 +9,7 @@ I will always try to create something new and interesting. look forward to this 
 
 
 
-<p align="center" size="100">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRiccioRyu%2Fhit-counter&count_bg=%23CA2DE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRiccioRyu%2Fhit-counter&count_bg=%23CA2DE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
@@ -32,7 +32,7 @@ I will always try to create something new and interesting. look forward to this 
 
 
 
-<p align="center" size="100">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
