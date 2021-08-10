@@ -7,10 +7,14 @@ I develop regardless of web, mobile, TV, etc. Front-end, Back-end, Full-stack ar
 I like fitness, games and coffee.<br />
 I will always try to create something new and interesting. look forward to this place.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRiccioRyu%2Fhit-counter&count_bg=%23CA2DE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-#### <p align="center" size="100">📓 Skills 📓</p>
+<p align="center" size="100">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRiccioRyu%2Fhit-counter&count_bg=%23CA2DE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</p>
+
+
+
+
+#### <p align="center"> 📓 Skills 📓 </p>
 <p align="center">I've used at least once</p>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />&nbsp;
@@ -25,13 +29,16 @@ I will always try to create something new and interesting. look forward to this 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /></p>
 
+
+
+
+<p align="center" size="100">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+
+
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **RiccioRyu/RiccioRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
