@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
