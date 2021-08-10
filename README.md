@@ -30,12 +30,26 @@ I will always try to create something new and interesting. look forward to this 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /></p>
 
 
+#### <p align="center"> 📔 Tools 📔 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Zepline-orange?style=flat-square&logo=Azure%20Pipelines&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white" />
+</p>
+
+<!--
+#### <p align="center"> 📕 Me 📕 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />&nbsp;
+</p>
+-->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccioRyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccioRyu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
