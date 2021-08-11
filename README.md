@@ -1,11 +1,11 @@
 ###  Hello World! 
 ---
 
-😄 Hi, Everyone! I'm a studying developer. I always want to show everyone a better side. <br />
-I develop regardless of web, mobile, TV, etc. Front-end, Back-end, Full-stack are all very interested. Good luck.
+😄Hello everybody! I'm a front-end web developer. I also work on mobile and TV software engineering.
+I spend most of my time studying new engineering languages, including backend and full-stack engineering. Because I love showing people the best side of myself at work. As I believe the formost qualifications to become a profound developers is to constantly acquire new information in the field, I never cease learning even when I am at the stable state. 
 
-I like fitness, games and coffee.<br />
-I will always try to create something new and interesting. look forward to this place.
+Besides engineering, I spend most of my spare time in fitness, computer games, and coffee. ;)
+As a developer, I always crave and pursue making new and exciting things, so stay tuned. Thanks
 
 
 
