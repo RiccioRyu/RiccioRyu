@@ -1,6 +1,6 @@
 ###  Hello World! 
 ---
-
+<!--
 😄Hello everybody! I'm a front-end web developer. I also work on mobile and TV software engineering.
 I spend most of my time studying new engineering languages, including backend and full-stack engineering. Because I love showing people the best side of myself at work. As I believe the formost qualifications to become a profound developers is to constantly acquire new information in the field, I never cease learning even when I am at the stable state. 
 
@@ -38,7 +38,7 @@ As a developer, I always crave and pursue making new and exciting things, so sta
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white" />
 </p><br />
-
+-->
 <!--
 #### <p align="center"> 📕 Me 📕 </p>
 <p align="center">
@@ -50,10 +50,10 @@ As a developer, I always crave and pursue making new and exciting things, so sta
 
 
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccioRyu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccioRyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
